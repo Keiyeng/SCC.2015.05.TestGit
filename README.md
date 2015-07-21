@@ -18,6 +18,6 @@ This are the 5 points:
 - Point 6: bla bla bla
  
 New items:
- *item 1
+ 1. item 1
    *item 1a
-   *item 1a
+   *item 1b
